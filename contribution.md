@@ -3,4 +3,5 @@ contribution for hacktoberfest 2019
 
 
 
-1. Aman Kumar Soni [https://github.com/computerwala]
+1. Aman kumar soni [https://github.com/computerwala]
+2. Virat Sinha [https://github.com/Viratsinha]
